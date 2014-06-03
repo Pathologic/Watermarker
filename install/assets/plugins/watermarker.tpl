@@ -2,7 +2,7 @@
 /**
  * Watermarker
  * 
- * Creates previews and wraps them into link to original image
+ * Plugin to post-process uploaded images
  *
  * @category 	plugin
  * @version 	1.0
